@@ -1,0 +1,2 @@
+# 当前 build_rss.py 全部用标准库, 无需额外依赖
+# 留这个文件方便以后加 requests/beautifulsoup4 等
