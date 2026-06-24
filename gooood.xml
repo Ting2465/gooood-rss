@@ -5,7 +5,7 @@
     <link>https://www.gooood.cn/</link>
     <description>谷德设计网是中国具有影响力和广泛关注度的建筑、景观、室内与设计门户平台。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:59:42 GMT</lastBuildDate>
     <generator>gooood-rss GitHub Action</generator>
     <atom:link href="https://example.com/gooood.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -332,12 +332,12 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/0-elche-neurodevelopment-institute-phase-1-by-arn-architects-efp.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>VOTA! by BUREAU</title>
+      <title>VOTA!展览，葡萄牙 / BUREAU</title>
       <link>https://www.gooood.cn/vota-by-bureau.htm</link>
       <guid isPermaLink="false">gooood-vota-by-bureau</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/VOTA.jpg" alt="VOTA! by BUREAU" /&gt;&lt;/p&gt;
-&lt;p&gt;An Exhibition on the Public Memory of Portugal’s First Free Elections&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/VOTA.jpg" alt="VOTA!展览，葡萄牙 / BUREAU" /&gt;&lt;/p&gt;
+&lt;p&gt;关于葡萄牙首次自由选举的公共记忆展&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/VOTA.jpg" type="image/jpeg" />
     </item>
     <item>
@@ -413,12 +413,12 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/0-zanye-hybrid-program-by-voda.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>松山湖展演中心，东莞 / Zaha Hadid Architects</title>
+      <title>Songshan Lake Exhibition and Performance Centre by Zaha Hadid Architects</title>
       <link>https://www.gooood.cn/songshan-lake-exhibition-and-performance-centre-by-zaha-hadid-architects.htm</link>
       <guid isPermaLink="false">gooood-songshan-lake-exhibition-and-performance-centre-by-zaha-hadid-architects</guid>
       <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/0-songshan-lake-exhibition-and-performance-centre-by-zaha-hadid-architects.jpg" alt="松山湖展演中心，东莞 / Zaha Hadid Architects" /&gt;&lt;/p&gt;
-&lt;p&gt;粤剧“水袖”化作建筑形&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/0-songshan-lake-exhibition-and-performance-centre-by-zaha-hadid-architects.jpg" alt="Songshan Lake Exhibition and Performance Centre by Zaha Hadid Architects" /&gt;&lt;/p&gt;
+&lt;p&gt;Translating Cantonese Opera’s Water Sleeves into Architecture&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/0-songshan-lake-exhibition-and-performance-centre-by-zaha-hadid-architects.jpg" type="image/jpeg" />
     </item>
     <item>
@@ -431,21 +431,21 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/OASIZ.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>杭州·西溪菜市 / 九樟营造事务所</title>
+      <title>PARK IN MARKET by Office Canopy of Architecture (OCOA)</title>
       <link>https://www.gooood.cn/park-in-market-by-office-canopy-of-architecture-ocoa.htm</link>
       <guid isPermaLink="false">gooood-park-in-market-by-office-canopy-of-architecture-ocoa</guid>
       <pubDate>Tue, 16 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/02-park-in-market-by-office-canopy-of-architecture-ocoa.jpg" alt="杭州·西溪菜市 / 九樟营造事务所" /&gt;&lt;/p&gt;
-&lt;p&gt;将西溪的意境带进菜场&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/02-park-in-market-by-office-canopy-of-architecture-ocoa.jpg" alt="PARK IN MARKET by Office Canopy of Architecture (OCOA)" /&gt;&lt;/p&gt;
+&lt;p&gt;Infusing the Poetics of Xixi into the Vernacular Space&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/02-park-in-market-by-office-canopy-of-architecture-ocoa.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>林间住宅，波兰 / 77Studio Architektury</title>
+      <title>House with a Glade by 77Studio Architektury</title>
       <link>https://www.gooood.cn/house-with-a-glade-by-77studio-architektury.htm</link>
       <guid isPermaLink="false">gooood-house-with-a-glade-by-77studio-architektury</guid>
       <pubDate>Mon, 15 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/2-83b.jpg" alt="林间住宅，波兰 / 77Studio Architektury" /&gt;&lt;/p&gt;
-&lt;p&gt;森林空地中的光之居所&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/2-83b.jpg" alt="House with a Glade by 77Studio Architektury" /&gt;&lt;/p&gt;
+&lt;p&gt;A House Shaped by Light in a Forest Glade&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/2-83b.jpg" type="image/jpeg" />
     </item>
     <item>
@@ -485,12 +485,12 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/05/1-8pl.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>SCC -千驮谷社区中心，日本 / 隈研吾建筑都市设计事务所</title>
+      <title>SCC – Sendagaya Community Center by Kengo Kuma and Associates</title>
       <link>https://www.gooood.cn/scc-sendagaya-community-center-by-kengo-kuma-and-associates.htm</link>
       <guid isPermaLink="false">gooood-scc-sendagaya-community-center-by-kengo-kuma-and-associates</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/1-khh.jpg" alt="SCC -千驮谷社区中心，日本 / 隈研吾建筑都市设计事务所" /&gt;&lt;/p&gt;
-&lt;p&gt;以圆形构筑开放连接：高密度城区中的可塑性社区中心&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/1-khh.jpg" alt="SCC – Sendagaya Community Center by Kengo Kuma and Associates" /&gt;&lt;/p&gt;
+&lt;p&gt;Building Openness Through Circles: A Malleable Community Center in a Dense Urban Fabric&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/1-khh.jpg" type="image/jpeg" />
     </item>
     <item>
@@ -503,12 +503,12 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/00-gooood-interview-Yang-Dingliang的副本_副本-4kc.png" type="image/jpeg" />
     </item>
     <item>
-      <title>Houm瑜伽中心，印度尼西亚 / Dhanie &amp; Sal</title>
+      <title>Houm Yoga by Dhanie &amp; Sal</title>
       <link>https://www.gooood.cn/houm-yoga-by-dhanie-sal.htm</link>
       <guid isPermaLink="false">gooood-houm-yoga-by-dhanie-sal</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/00-gooood-interview-Yang-Dingliang的副本_副本-xnn.png" alt="Houm瑜伽中心，印度尼西亚 / Dhanie &amp;amp; Sal" /&gt;&lt;/p&gt;
-&lt;p&gt;旧宅新生的社区疗愈空间&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/00-gooood-interview-Yang-Dingliang的副本_副本-xnn.png" alt="Houm Yoga by Dhanie &amp;amp; Sal" /&gt;&lt;/p&gt;
+&lt;p&gt;A Communal Wellness Space Reimagined from an Existing House&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/00-gooood-interview-Yang-Dingliang的副本_副本-xnn.png" type="image/jpeg" />
     </item>
     <item>
@@ -548,21 +548,21 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/00-gooood-interview-Yang-Dingliang的副本_副本-qcn.png" type="image/jpeg" />
     </item>
     <item>
-      <title>Grid住宅，西班牙 / NOMO STUDIO</title>
+      <title>Grid House by NOMO STUDIO</title>
       <link>https://www.gooood.cn/grid-house-by-nomo-studio.htm</link>
       <guid isPermaLink="false">gooood-grid-house-by-nomo-studio</guid>
       <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/05/01-grid-house-by-nomo-studio.jpg" alt="Grid住宅，西班牙 / NOMO STUDIO" /&gt;&lt;/p&gt;
-&lt;p&gt;悬浮于地景之上&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/05/01-grid-house-by-nomo-studio.jpg" alt="Grid House by NOMO STUDIO" /&gt;&lt;/p&gt;
+&lt;p&gt;Floating above the landscape&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/05/01-grid-house-by-nomo-studio.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>面向巴拉涅壮阔景观的栖居露台，法国 / A FABRiCA architettura</title>
+      <title>Spaziu Davia Franceschini by A FABRiCA architettura</title>
       <link>https://www.gooood.cn/spaziu-davia-franceschini-by-a-fabrica-architettura.htm</link>
       <guid isPermaLink="false">gooood-spaziu-davia-franceschini-by-a-fabrica-architettura</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/1-dt2.jpg" alt="面向巴拉涅壮阔景观的栖居露台，法国 / A FABRiCA architettura" /&gt;&lt;/p&gt;
-&lt;p&gt;生长于梯田地景之中的共享空间&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/1-dt2.jpg" alt="Spaziu Davia Franceschini by A FABRiCA architettura" /&gt;&lt;/p&gt;
+&lt;p&gt;A Shared Space Rooted in the Terraced Landscape&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/1-dt2.jpg" type="image/jpeg" />
     </item>
     <item>
@@ -647,12 +647,12 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/04/00-office-fact-jinqiuye-拷贝.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>CASA SANTO ORIGEN酒店，墨西哥 / Luis García R. + Roberto López</title>
+      <title>CASA SANTO ORIGEN by Luis García R. + Roberto López</title>
       <link>https://www.gooood.cn/casa-santo-origen-by-luis-garcia-r-roberto-lopez.htm</link>
       <guid isPermaLink="false">gooood-casa-santo-origen-by-luis-garcia-r-roberto-lopez</guid>
       <pubDate>Tue, 02 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/05/1-bnn.jpg" alt="CASA SANTO ORIGEN酒店，墨西哥 / Luis García R. + Roberto López" /&gt;&lt;/p&gt;
-&lt;p&gt;墨西哥瓦哈卡圣费利佩德尔阿瓜的一处静谧隐居之所&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/05/1-bnn.jpg" alt="CASA SANTO ORIGEN by Luis García R. + Roberto López" /&gt;&lt;/p&gt;
+&lt;p&gt;AN INTIMATE RETREAT IN SAN FELIPE DEL AGUA, OAXACA&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/05/1-bnn.jpg" type="image/jpeg" />
     </item>
     <item>
