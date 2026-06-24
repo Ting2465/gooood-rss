@@ -5,7 +5,7 @@
     <link>https://www.gooood.cn/</link>
     <description>谷德设计网是中国具有影响力和广泛关注度的建筑、景观、室内与设计门户平台。本 feed 自动抓取最近 100 篇文章的标题、摘要与封面。</description>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 24 Jun 2026 11:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 11:15:25 GMT</lastBuildDate>
     <generator>gooood-rss GitHub Action</generator>
     <atom:link href="https://example.com/gooood.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -332,12 +332,12 @@
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/0-elche-neurodevelopment-institute-phase-1-by-arn-architects-efp.jpg" type="image/jpeg" />
     </item>
     <item>
-      <title>VOTA!展览，葡萄牙 / BUREAU</title>
+      <title>VOTA! by BUREAU</title>
       <link>https://www.gooood.cn/vota-by-bureau.htm</link>
       <guid isPermaLink="false">gooood-vota-by-bureau</guid>
       <pubDate>Thu, 18 Jun 2026 00:00:00 GMT</pubDate>
-      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/VOTA.jpg" alt="VOTA!展览，葡萄牙 / BUREAU" /&gt;&lt;/p&gt;
-&lt;p&gt;关于葡萄牙首次自由选举的公共记忆展&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src="https://oss.gooood.cn/uploads/2026/06/VOTA.jpg" alt="VOTA! by BUREAU" /&gt;&lt;/p&gt;
+&lt;p&gt;An Exhibition on the Public Memory of Portugal’s First Free Elections&lt;/p&gt;</description>
       <enclosure url="https://oss.gooood.cn/uploads/2026/06/VOTA.jpg" type="image/jpeg" />
     </item>
     <item>
